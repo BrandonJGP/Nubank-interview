@@ -1,5 +1,5 @@
 from datetime import datetime, timedelta
-import pytest 
+import pytest  
 from src.data_structure import Account, Transaction
 
 def test_register_and_limit_reduction():
