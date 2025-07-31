@@ -18,5 +18,5 @@ pip install -r requirements.txt
 # 2. Execute the sample script
 python -m src.main
 
-# 3. Run the test suite (≈ 0.01 s)
+# 3. Run the test suite 
 pytest -q
