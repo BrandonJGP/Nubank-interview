@@ -1,5 +1,5 @@
 from datetime import datetime
-from data_structure import Account, Transaction
+from src.data_structure import Account, Transaction
 
 def main() -> None:
     acct = Account(active=True, available_limit = 1000)
